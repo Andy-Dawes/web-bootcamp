@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Andy Dawes</title>
+        <style>
+            body {
+                background-color: #eaf6f6;
+            }
+            hr {
+                border-style: dotted none none none;
+                    border-color: grey;
+                        border-width: 5px;
+                height: 0px;
+                width: 5%;
+            }
+        </style>
+    </head>
+    <body>
+        <table cellspacing="20">
+            <tr>
+                <td><img src="img/me.png" alt="Me as a madman!" /></td>
+                <td>
+                    <h1>Andy Dawes</h1>
+                    <p><em>Founder and CTO of Lento Games</em></p>
+                    <p>I am the eggman, I am the walrus</p>
+                </td>
+            </tr>
+        </table>
+
+        <br />
+        <hr />
+        <h3>Education</h3>
+        <p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry. Lorem Ipsum has been the industry's standard dummy text
+            ever since the 1500s, when an unknown printer took a galley of type
+            and scrambled it to make a type specimen book.
+        </p>
+        <ul>
+            <li>
+                <strong><a href="https://www.google.com">Text 1</a></strong>
+            </li>
+            <li>
+                <strong><a href="https://www.google.com">Text 2</a></strong>
+            </li>
+            <li>
+                <strong><a href="https://www.google.com">Text 3</a></strong>
+            </li>
+            <li>
+                <strong><a href="https://www.google.com">Text 4</a></strong>
+            </li>
+            <li>
+                <strong><a href="https://www.google.com">Text 5</a></strong>
+            </li>
+        </ul>
+        <br />
+        <hr />
+        <h3>Work Experience</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Work</th>
+                    <th>Dates</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Developer at Lento Games</td>
+                    <td>2010-2013</td>
+                </tr>
+                <tr>
+                    <td>Lead Developer at Lento Games</td>
+                    <td>2013-2015</td>
+                </tr>
+                <tr>
+                    <td>CTO at Lento Games</td>
+                    <td>2015-2018</td>
+                </tr>
+                <tr>
+                    <td>CEO at Lento Games</td>
+                    <td>2018 to present</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+        <hr />
+        <h3>Skills</h3>
+        <table>
+            <tbody>
+                <tr>
+                    <td>iOS Development</td>
+                    <td>⛧⛧⛧⛧⛧</td>
+                    <td>Godot Development</td>
+                    <td>⛧⛧⛧⛧⛧</td>
+                </tr>
+                <tr>
+                    <td>Game Development</td>
+                    <td>⛧⛧⛧⛧⛧</td>
+                    <td>Physics and Ray Tracing Development</td>
+                    <td>⛧⛧⛧⛧⛧</td>
+                </tr>
+                <tr>
+                    <td>Back-End Development</td>
+                    <td>⛧⛧⛧</td>
+                    <td>NPM Development</td>
+                    <td>⛧⛧⛧⛧⛧</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+        <hr />
+        <h3>Hobbies</h3>
+        <ol>
+            <li>
+                <strong
+                    ><a href="https://www.google.com">Programming</a></strong
+                >
+            </li>
+            <li>
+                <strong><a href="https://www.google.com">Reading</a></strong>
+            </li>
+            <li>
+                <strong><a href="cycling.html">Cycling</a></strong>
+            </li>
+            <li>
+                <strong><a href="https://www.google.com">Painting</a></strong>
+            </li>
+        </ol>
+        <br />
+        <hr />
+        <h3>
+            <strong><a href="contact.html">Contact Us</a></strong>
+        </h3>
+    </body>
+</html>
